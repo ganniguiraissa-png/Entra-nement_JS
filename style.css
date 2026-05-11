@@ -29,3 +29,25 @@ body{
    
 
 }
+#info{
+    display: none;
+      border: 1px solid black;
+       width: 250px;
+    height: 250px;
+
+}
+ #fo{
+    display: flex;
+    flex-direction: column;
+      gap: 20px;
+ }
+#formu{
+    display: flex;
+    justify-content: space-between;
+}
+#temp{
+width: 80px;
+}
+#conv{
+    width: 80px;
+}
